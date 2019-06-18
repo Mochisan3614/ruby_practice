@@ -1,6 +1,6 @@
 #-*-coding: utf-8-*-
 
-indians["One little, two little, three little Indians\n",
+indians=["One little, two little, three little Indians\n",
 "Four little, five little, six little Indians\n",
 "Seven little, eight little, nine little Indians\n",
 "Ten little Indians\n"]
